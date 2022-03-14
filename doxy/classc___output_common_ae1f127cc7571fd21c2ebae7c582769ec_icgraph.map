@@ -1,0 +1,13 @@
+<map id="c_OutputCommon::SetOutputBufferSize" name="c_OutputCommon::SetOutputBufferSize">
+<area shape="rect" id="node1" title=" " alt="" coords="669,104,861,145"/>
+<area shape="rect" id="node2" href="$classc___output_g_e_c_e.html#afa49af48b57f42a203505c2ebc84de91" title="set up the operating environment based on the current config (or defaults)" alt="" coords="463,53,612,79"/>
+<area shape="rect" id="node3" href="$classc___output_pixel.html#a983c0df6ee8a8ff684306e886dcc84c1" title=" " alt="" coords="453,104,621,145"/>
+<area shape="rect" id="node10" href="$classc___output_g_e_c_e.html#ad0d6ada1fc2260b304bda02e804ba13c" title=" " alt="" coords="457,170,618,197"/>
+<area shape="rect" id="node4" href="$classc___output_g_s8208.html#ae103fb4e6f307cd2a82b36af91418c93" title=" " alt="" coords="214,5,401,47"/>
+<area shape="rect" id="node6" href="$classc___output_u_c_s1903.html#a9fdc9541ea63bb7c9a9c474075fe7e57" title=" " alt="" coords="209,71,405,112"/>
+<area shape="rect" id="node8" href="$classc___output_w_s2811.html#a2f597b7e3f9af30ad78feccf6a40d598" title=" " alt="" coords="213,136,402,177"/>
+<area shape="rect" id="node5" href="$classc___output_g_s8208_uart.html#a5fca197cefd984039e23a73b9b5e7a34" title=" " alt="" coords="10,5,157,47"/>
+<area shape="rect" id="node7" href="$classc___output_u_c_s1903_uart.html#a52f28ca2082403296124d0c6ddca2d20" title=" " alt="" coords="5,71,161,112"/>
+<area shape="rect" id="node9" href="$classc___output_w_s2811_uart.html#add1df8dab334016d223715653a0de43e" title=" " alt="" coords="9,136,158,177"/>
+<area shape="rect" id="node11" href="$classc___output_g_e_c_e.html#a6af3988d0c5c4943e036487c2af98d44" title="Set a new config in the driver." alt="" coords="221,202,393,229"/>
+</map>
