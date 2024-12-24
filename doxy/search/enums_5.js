@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['simplemessage_0',['SimpleMessage',['../classc___web_mgr.html#ac53ba657aeb128a4e6140dfcb686ac8c',1,'c_WebMgr']]],
-  ['state_1',['State',['../class_e_f_update.html#a9054f60484e702da4458451c49916bfe',1,'EFUpdate']]]
+  ['recordtype_0',['RecordType',['../class_e_f_update.html#a66c9263ed88f557250172870c2b1cb81',1,'EFUpdate']]]
 ];

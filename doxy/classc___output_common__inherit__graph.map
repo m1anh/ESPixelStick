@@ -1,12 +1,7 @@
 <map id="c_OutputCommon" name="c_OutputCommon">
-<area shape="rect" id="node1" title=" " alt="" coords="147,5,274,32"/>
-<area shape="rect" id="node2" href="$classc___output_disabled.html" title=" " alt="" coords="5,80,131,107"/>
-<area shape="rect" id="node3" href="$classc___output_g_e_c_e.html" title=" " alt="" coords="155,80,266,107"/>
-<area shape="rect" id="node4" href="$classc___output_pixel.html" title=" " alt="" coords="290,80,393,107"/>
-<area shape="rect" id="node5" href="$classc___output_g_s8208.html" title=" " alt="" coords="117,155,240,181"/>
-<area shape="rect" id="node7" href="$classc___output_u_c_s1903.html" title=" " alt="" coords="276,155,407,181"/>
-<area shape="rect" id="node9" href="$classc___output_w_s2811.html" title=" " alt="" coords="443,155,567,181"/>
-<area shape="rect" id="node6" href="$classc___output_g_s8208_uart.html" title=" " alt="" coords="92,229,239,256"/>
-<area shape="rect" id="node8" href="$classc___output_u_c_s1903_uart.html" title=" " alt="" coords="263,229,419,256"/>
-<area shape="rect" id="node10" href="$classc___output_w_s2811_uart.html" title=" " alt="" coords="444,229,593,256"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="72,5,199,31"/>
+<area shape="rect" id="Node000002" href="$classc___output_disabled.html" title=" " alt="" coords="5,79,130,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,44,81,80,77,77,112,40"/>
+<area shape="rect" id="Node000003" href="$classc___output_pixel.html" title=" " alt="" coords="154,79,256,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,40,195,77,191,80,155,44"/>
 </map>

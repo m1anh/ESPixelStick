@@ -1,5 +1,5 @@
 <map id="c_ExternalInput::GetStatistics" name="c_ExternalInput::GetStatistics">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,199,32"/>
-<area shape="rect" id="node2" href="$classc___external_input.html#af0e3a7f3dc916542d3e8a168da217d51" title=" " alt="" coords="247,5,385,32"/>
-<area shape="rect" id="node3" href="$classfsm___external_input__state.html#afb4926cf6b8807106f7692ce6d60deb1" title=" " alt="" coords="433,5,623,32"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,198,31"/>
+<area shape="rect" id="Node000002" href="$classc___external_input.html#aa8c12cd0c690a094962ba8f7f5361282" title=" " alt="" coords="246,5,421,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,16,230,16,230,21,198,21"/>
 </map>

@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['ping_0',['PING',['../classc___web_mgr.html#ac53ba657aeb128a4e6140dfcb686ac8ca03de94677abcb42e81938b73ef3f31ca',1,'c_WebMgr']]],
-  ['pixelappendnulls_1',['PixelAppendNulls',['../classc___output_pixel.html#a22a4b688a8308c01388355028124d33aa65853ea79836a494da71dadb10414c58',1,'c_OutputPixel']]],
-  ['pixelprependnulls_2',['PixelPrependNulls',['../classc___output_pixel.html#a22a4b688a8308c01388355028124d33aa26b2006c71e095a0a566f580a50c3b43',1,'c_OutputPixel']]],
-  ['pixelsendintensity_3',['PixelSendIntensity',['../classc___output_pixel.html#a22a4b688a8308c01388355028124d33aa0bd19b4bda135e048d78e4fc05f6a959',1,'c_OutputPixel']]]
+  ['shorton_0',['shortOn',['../classc___external_input.html#a4f30c6d7f324be6effcb32758afc7ef3a115e001e5765d1d03d8aa4ae9f3d6919',1,'c_ExternalInput']]],
+  ['sketch_5fimage_1',['SKETCH_IMAGE',['../class_e_f_update.html#a66c9263ed88f557250172870c2b1cb81a0feb5b3db52818b1513498022a4675fe',1,'EFUpdate']]],
+  ['spi_2',['Spi',['../classc___output_mgr.html#a970adc830ccb78bebef75d526c515cc9a67150b88c1fa1742ea618da86b829a7a',1,'c_OutputMgr']]]
 ];

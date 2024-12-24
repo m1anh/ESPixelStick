@@ -1,12 +1,5 @@
 <map id="c_OutputCommon::SetConfig" name="c_OutputCommon::SetConfig">
-<area shape="rect" id="node1" title="Set a new config in the driver." alt="" coords="677,71,867,98"/>
-<area shape="rect" id="node2" href="$classc___output_mgr.html#a76a8b800d195f6edb29110b47e9ea38a" title=" " alt="" coords="451,5,629,47"/>
-<area shape="rect" id="node3" href="$classc___output_g_e_c_e.html#a6af3988d0c5c4943e036487c2af98d44" title="Set a new config in the driver." alt="" coords="454,71,626,98"/>
-<area shape="rect" id="node4" href="$classc___output_pixel.html#aba69c60f370711f72ed8d1166e2bec41" title="Set a new config in the driver." alt="" coords="457,122,623,149"/>
-<area shape="rect" id="node5" href="$classc___output_g_s8208.html#acc48fc44f06b2862e72de66dcd8a8d17" title="Set a new config in the driver." alt="" coords="214,65,398,91"/>
-<area shape="rect" id="node7" href="$classc___output_u_c_s1903.html#a3bd2b5bc4151d128aaf74a5ff979dcec" title="Set a new config in the driver." alt="" coords="209,122,403,149"/>
-<area shape="rect" id="node9" href="$classc___output_w_s2811.html#ac49c587aa0bd497201a08cba894e1ccf" title="Set a new config in the driver." alt="" coords="213,179,399,206"/>
-<area shape="rect" id="node6" href="$classc___output_g_s8208_uart.html#aa511bd93436ad1ad9f8b61ddd699c2bf" title="Set a new config in the driver." alt="" coords="10,49,157,91"/>
-<area shape="rect" id="node8" href="$classc___output_u_c_s1903_uart.html#a1cbfc727a4c0f6fe5c613bdec5539efa" title="Set a new config in the driver." alt="" coords="5,115,161,156"/>
-<area shape="rect" id="node10" href="$classc___output_w_s2811_uart.html#a49ac81c566414b5e57d63360e4e963d6" title="Set a new config in the driver." alt="" coords="9,180,158,221"/>
+<area shape="rect" id="Node000001" title="Set a new config in the driver." alt="" coords="218,5,406,31"/>
+<area shape="rect" id="Node000002" href="$classc___output_pixel.html#aba69c60f370711f72ed8d1166e2bec41" title="Set a new config in the driver." alt="" coords="5,5,170,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,21,170,21,170,16,202,16"/>
 </map>

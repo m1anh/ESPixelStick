@@ -1,6 +1,0 @@
-<map id="c_OutputPixel::StartNewFrame" name="c_OutputPixel::StartNewFrame">
-<area shape="rect" id="node1" title=" " alt="" coords="209,78,411,105"/>
-<area shape="rect" id="node2" href="$classc___output_g_s8208_uart.html#af5766bb04cc2e560906bd9e259deea6c" title="Call from loop(), renders output data." alt="" coords="10,5,157,47"/>
-<area shape="rect" id="node3" href="$classc___output_u_c_s1903_uart.html#a30b6c09b5093f1d60754450549c5b780" title="Call from loop(), renders output data." alt="" coords="5,71,161,112"/>
-<area shape="rect" id="node4" href="$classc___output_w_s2811_uart.html#ac1bf27d0699037d5b2cb64a2c827310e" title="Call from loop(), renders output data." alt="" coords="9,136,158,177"/>
-</map>

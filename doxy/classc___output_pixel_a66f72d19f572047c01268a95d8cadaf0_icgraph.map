@@ -1,10 +1,5 @@
 <map id="c_OutputPixel::validate" name="c_OutputPixel::validate">
-<area shape="rect" id="node1" title="confirm that the current configuration is valid" alt="" coords="664,78,819,105"/>
-<area shape="rect" id="node2" href="$classc___output_pixel.html#aba69c60f370711f72ed8d1166e2bec41" title="Set a new config in the driver." alt="" coords="451,78,616,105"/>
-<area shape="rect" id="node3" href="$classc___output_g_s8208.html#acc48fc44f06b2862e72de66dcd8a8d17" title="Set a new config in the driver." alt="" coords="214,21,398,47"/>
-<area shape="rect" id="node5" href="$classc___output_u_c_s1903.html#a3bd2b5bc4151d128aaf74a5ff979dcec" title="Set a new config in the driver." alt="" coords="209,78,403,105"/>
-<area shape="rect" id="node7" href="$classc___output_w_s2811.html#ac49c587aa0bd497201a08cba894e1ccf" title="Set a new config in the driver." alt="" coords="213,135,399,162"/>
-<area shape="rect" id="node4" href="$classc___output_g_s8208_uart.html#aa511bd93436ad1ad9f8b61ddd699c2bf" title="Set a new config in the driver." alt="" coords="10,5,157,47"/>
-<area shape="rect" id="node6" href="$classc___output_u_c_s1903_uart.html#a1cbfc727a4c0f6fe5c613bdec5539efa" title="Set a new config in the driver." alt="" coords="5,71,161,112"/>
-<area shape="rect" id="node8" href="$classc___output_w_s2811_uart.html#a49ac81c566414b5e57d63360e4e963d6" title="Set a new config in the driver." alt="" coords="9,136,158,177"/>
+<area shape="rect" id="Node000001" title="confirm that the current configuration is valid" alt="" coords="218,5,371,31"/>
+<area shape="rect" id="Node000002" href="$classc___output_pixel.html#aba69c60f370711f72ed8d1166e2bec41" title="Set a new config in the driver." alt="" coords="5,5,170,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,21,170,21,170,16,202,16"/>
 </map>

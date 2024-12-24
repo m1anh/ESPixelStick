@@ -1,4 +1,5 @@
 <map id="c_InputMgr::DeleteConfig" name="c_InputMgr::DeleteConfig">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,172,32"/>
-<area shape="rect" id="node2" href="$classc___file_mgr.html#a392896b8a923aa9c3a70a668b2af8e55" title=" " alt="" coords="220,5,399,32"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,171,31"/>
+<area shape="rect" id="Node000002" href="$classc___file_mgr.html#a17ce44b69df18bcc928b89b6702d766e" title=" " alt="" coords="219,5,393,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,16,203,16,203,21,171,21"/>
 </map>
